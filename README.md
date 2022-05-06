@@ -25,3 +25,4 @@ e o backend foi efetuando em node.js
 ✅ Node
 
 **************************************************************************************************
+Caso queria conhecer mais sobre o projeto, pode entrar em contato comigo. 
